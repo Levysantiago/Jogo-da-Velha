@@ -1,2 +1,1 @@
-# ProjetosJava
-Projetos desenvolvidos em Java.
+# Jogo da Velha
